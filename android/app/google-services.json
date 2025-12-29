@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "347776058910",
+    "project_id": "acadexa1",
+    "storage_bucket": "acadexa1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347776058910:android:73c2d61bf1d98c0ac2100f",
+        "android_client_info": {
+          "package_name": "com.Acadexa.teacherstaff"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zrnSbVEm3DD_-xa_2hZOkA9tpkFkwVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347776058910:android:fe4574a8e6fa44e0c2100f",
+        "android_client_info": {
+          "package_name": "com.acadexa.parentstudent"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3zrnSbVEm3DD_-xa_2hZOkA9tpkFkwVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
