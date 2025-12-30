@@ -1,5 +1,5 @@
 # Global iOS platform (MANDATORY for Firebase 12.x)
-platform :ios, '14.0'
+platform :ios, '15.0'
 
 # Disable CocoaPods analytics
 ENV['COCOAPODS_DISABLE_STATS'] = 'true'
